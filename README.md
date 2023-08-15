@@ -8,7 +8,7 @@ Passionate about computers, new technologies and everything that surrounds them 
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [rodriguez.h@pm.me](mailto:rodriguez.h@pm.me)
-* 🚀  I'm currently working on [LiYhu Sutdio](http://liyhu.studio)
+* 🚀  I'm currently working on [LiYhu Studio](http://liyhu.studio)
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on all types of projects in HTML, CSS, JS, React...
 
